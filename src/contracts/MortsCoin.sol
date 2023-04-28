@@ -15,9 +15,7 @@ contract MortsCoin is ERC20, Ownable {
   // the max total supply is 10000 for Mort's Coin
   uint256 public constant maxTotalSupply = 10000 * 10 ** 18;
 
-  // Mapping to keep track of which tokenIds have been claimed
-  //mapping(uint256 => bool) public coinIdsClaimed;
-
+  // Constructor for the token details to passed once the token is depolyed
   constructor() ERC20("MortsToken", "MRT") {}
 
   /**
