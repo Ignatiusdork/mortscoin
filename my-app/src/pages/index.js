@@ -243,16 +243,16 @@ export default function Home() {
       }
       // Show the mint button to mint Mort's Token
       return (
-        <div style={{ display: "flex-col"}}>
-          <div>
-            <input
-              type='number'
-              placeholder="Amount of Tokens"
-              // BigNumber.from converts the `e.target.value` to a BigNumber
-              onChange={(e) => setTokenAmount(BigNumber.from(e.target.value))}
-              className={styles.input}
-            />
-          </div>
+      <div style={{ display: "flex-col" }}>
+        <div>
+          <input
+            type="number"
+            placeholder="Amount of Tokens"
+            // BigNumber.from converts the `e.target.value` to a BigNumber
+            onChange={(e) => setTokenAmount(BigNumber.from(e.target.value))}
+            className={styles.input}
+          />
+        </div>
 
           <button
             className={styles.button}
