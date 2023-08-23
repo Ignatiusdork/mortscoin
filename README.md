@@ -20,9 +20,9 @@ This project is for my practice in web3 development, specifically focusing on So
 - HTML: Structure of the web page.
 - CSS: Styling and layout of the elements.
 - JavaScript: DOM manipulation and interactivity.
-- Solidity
-- Hardhat
-- Ethers.js
+- Solidity: Programming language for smart contracts
+- Hardhat: All in one dev environment for solidity
+- Ethers.js: Blockchain interaction library
 
 ## Getting Started
 
