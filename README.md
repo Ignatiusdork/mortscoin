@@ -1,6 +1,6 @@
 # Mortscoin
 
-Mints your favourite morts token during ICO, really valuable fo future usecases you dont want to miss out!
+Mint your high in demand morts token on the sepolia network, ICO is LIVE! A really valuable token for upcoming future usecases you dont want to miss out!
 
 This project is for my practice in web3 development, specifically focusing on Solidity, Hardhat, Ethers.js, HTML, CSS, and JavaScript.
 
