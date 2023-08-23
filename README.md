@@ -1,6 +1,6 @@
 # Mortscoin
 
-Mint your high in demand morts token on the sepolia network, ICO is LIVE! A really valuable token for upcoming future usecases you dont want to miss out!
+Mint your high-in-demand morts token on the sepolia network, ICO is LIVE! A really valuable token for upcoming future use cases you don't want to miss out on!
 
 This project is for my practice in web3 development, specifically focusing on Solidity, Hardhat, Ethers.js, HTML, CSS, and JavaScript.
 
@@ -10,11 +10,11 @@ This project is for my practice in web3 development, specifically focusing on So
 
 - **Basic Version:**
   - Mint Mort's token.
-  - View Balance of Morts tokens.
+  - View the Balance of Mort's tokens.
   - Transfer between addresses
 
 - **Upcoming Version:**
-  - Display additional withdraw button
+  - Display an additional withdraw button
 ## Technologies Used
 
 - HTML: Structure of the web page.
