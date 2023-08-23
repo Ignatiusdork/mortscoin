@@ -22,7 +22,7 @@ This project is for my practice in web3 development, specifically focusing on So
 - JavaScript: DOM manipulation and interactivity.
 - Solidity: Programming language for smart contracts
 - Hardhat: All in one dev environment for solidity
-- Ethers.js: Blockchain interaction library
+- Ethers.js: Blockchain interaction library.
 
 ## Getting Started
 
