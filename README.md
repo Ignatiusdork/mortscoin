@@ -1,8 +1,8 @@
-# mortscoin
+# Mortscoin
 
-Streamline your tasks with TaskFlow, a clean and intuitive to-do list web app designed for effective organization and productivity.
+Mints your favourite morts token during ICO, really valuable fo future usecases you dont want to miss out!
 
-This project is for my practice in web development, specifically focusing on DOM manipulation, HTML, CSS, and JavaScript.
+This project is for my practice in web3 development, specifically focusing on Solidity, Hardhat, Ethers.js, HTML, CSS, and JavaScript.
 
 [LiveVisit](https://mortscoin.vercel.app/)
 
@@ -21,6 +21,8 @@ This project is for my practice in web development, specifically focusing on DOM
 - CSS: Styling and layout of the elements.
 - JavaScript: DOM manipulation and interactivity.
 - Solidity
+- Hardhat
+- Ethers.js
 
 ## Getting Started
 
